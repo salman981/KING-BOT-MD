@@ -12,11 +12,11 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['923187028664']
-global.premium = ['923187028664']
-global.ownernomer = '923187028664'
+global.owner = ['923231582002']
+global.premium = ['923231582002']
+global.ownernomer = '923231582002'
 global.ownername = 'ШHłТΞ HΛϾКΞЯS'
-global.botname = '[devil 𝛃𝚯𝚪🤘]'
+global.q
 global.footer = '</> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʙᴏᴛ </>️ ▷'
 global.ig = 'https://github.com/KING-BOT-OFFICIAL'
 global.region = 'Sri Lanka'
