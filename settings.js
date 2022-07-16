@@ -14,8 +14,8 @@ global.APIKeys = {
 //customize settings\\
 global.owner = ['923077900642']
 global.premium = ['923077900642']
-global.ownernomer = '923077900643'
-global.ownername = 'ШHłТΞ HΛϾКΞЯS'
+global.ownernomer = '923077900642'
+global.ownername = 'devil king'
 global.q
 global.footer = '</> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʙᴏᴛ </>️ ▷'
 global.ig = 'https://github.com/KING-BOT-OFFICIAL'
